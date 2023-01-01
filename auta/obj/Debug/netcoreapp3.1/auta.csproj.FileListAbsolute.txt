@@ -1,0 +1,3 @@
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\auta\obj\Debug\netcoreapp3.1\auta.AssemblyInfoInputs.cache
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\auta\obj\Debug\netcoreapp3.1\auta.AssemblyInfo.cs
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\auta\obj\Debug\netcoreapp3.1\auta.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\bin\Debug\netcoreapp3.1\patternmatching3.exe
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\bin\Debug\netcoreapp3.1\patternmatching3.deps.json
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\bin\Debug\netcoreapp3.1\patternmatching3.runtimeconfig.json
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\bin\Debug\netcoreapp3.1\patternmatching3.runtimeconfig.dev.json
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\bin\Debug\netcoreapp3.1\patternmatching3.dll
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\bin\Debug\netcoreapp3.1\patternmatching3.pdb
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\obj\Debug\netcoreapp3.1\patternmatching3.AssemblyInfoInputs.cache
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\obj\Debug\netcoreapp3.1\patternmatching3.AssemblyInfo.cs
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\obj\Debug\netcoreapp3.1\patternmatching3.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\obj\Debug\netcoreapp3.1\patternmatching3.dll
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\obj\Debug\netcoreapp3.1\patternmatching3.pdb
+C:\Users\mateusz.wenta\source\repos\PodstwProgr\patternmatching3\obj\Debug\netcoreapp3.1\patternmatching3.genruntimeconfig.cache
